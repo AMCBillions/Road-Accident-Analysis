@@ -370,4 +370,6 @@ It is important to observe from the primary KPI’s that there is a negative per
 One of the recommendations I would make is to increase dual carriages in those areas with single carriages if the funds and terrain allow. A further investigation should be done as to why cars (sedans) tend to have more casualties. A recommendation could speed limits as well as a further investigation into driver behaviour(random cameras that are able to capture the driver). 
 
 **Power BI Dashboard**
+![image](https://github.com/user-attachments/assets/8d625e6e-1fe2-429e-8869-ded2ca485b58)
+
 
